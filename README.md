@@ -58,7 +58,7 @@ Links are how Lux Notes achieves multidimensional, modular text editing. A link 
 
 You can also use links for various other purposes, to be defined as I build this out better.
 
-In essence, a link is more than a pointer to another file. Lux Notes Links add a layer of indirection in a third file, the common entry in the .index files in the source and target directories. If the link is to another file within the exact same directory, then there are two entries in the index file.
+In essence, a link is more than a pointer to another file. Lux Notes Links add a layer of indirection in a third place, the common, mirrored entres in the .index files in the source and target directories. If the link is to another file within the exact same directory, then there are two entries in the index file.
 
 
 <a id="orgb3a6448"></a>
