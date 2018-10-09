@@ -47,14 +47,14 @@ Additionally, a header can have "Properties" associated to it. These properties 
 
 ### Raw text
 
-The majority of notes are simple raw text. There's nothing special here. The first flavor to be added will be the `[time] [\(|%|&] [value]` structure which denotes a journal entry. (Any timestamped entry is considered a journal entry.) (I'm still up in the air on whether I really want to complicate that leader-separator character by allowing `$` or `%` or `&` &#x2013; like, that could mean something if I wanted, but I have no real use at the moment.
+The majority of notes are simple raw text. There's nothing special here. The first flavor to be added will be the `[time] [$|%|&] [value]` structure which denotes a journal entry. (Any timestamped entry is considered a journal entry.) (I'm still up in the air on whether I really want to complicate that leader-separator character by allowing `$` or `%` or `&` &#x2013; like, that could mean something if I wanted, but I have no real use at the moment.
 
 
 <a id="org7a2b9e2"></a>
 
 ### Links
 
-Links are how Lux Notes achieves multidimensional, modular text editing. A link creates an entry in the current directories .index file, with meaningful information. The simplest link is an href-style hyperlink that takes you to another file, like any old anchor tag on the web.
+Links are how Lux Notes achieves multidimensional, modular text editing. A link creates an entry in the current directory's .index file, with meaningful information. The simplest link is an href-style hyperlink that takes you to another file, like any old anchor tag on the web.
 
 You can also use links for various other purposes, to be defined as I build this out better.
 
